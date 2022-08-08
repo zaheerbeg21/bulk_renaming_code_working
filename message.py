@@ -1,1 +1,1 @@
-Print("Code running from github repository")
+print("Code running from github repository")
